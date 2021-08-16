@@ -11,4 +11,4 @@
 ### Reference (GITHUB and RECORDED_VIDEOS) links:
 [Github link (For daily Jupyter Notebooks)](https://github.com/AP-Skill-Development-Corporation/APSSDC-FDP-PythonBatch3.git)
 
-[Recorded Videos(Daily)](link)
+[Recorded Videos(Daily)](https://drive.google.com/drive/folders/1i3BtdsMMVSrKAMGTvmdJCcySAwlHtXL5?usp=sharing)
