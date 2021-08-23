@@ -12,3 +12,13 @@
 [Github link (For daily Jupyter Notebooks)](https://github.com/AP-Skill-Development-Corporation/APSSDC-FDP-PythonBatch3.git)
 
 [Recorded Videos(Daily)](https://drive.google.com/drive/folders/1i3BtdsMMVSrKAMGTvmdJCcySAwlHtXL5?usp=sharing)
+
+[Day 1](https://transcripts.gotomeeting.com/#/s/02bb773bbf82d5cd40407b3a4b5f6ed56a0927c0e2030177d57fdc85fa7a8ce4)
+
+[Day 2](https://transcripts.gotomeeting.com/#/s/35a0b71b2cae79c5d45551c6a834c2f58abd540560b3c97c8ec0012c3718f4e9)
+
+[Day 3](https://transcripts.gotomeeting.com/#/s/f0b8e67d99ca49cbc37bbfee54da1b7e4e1cdd06cc342a3d9500a2e32318b095)
+
+[Day 4](https://transcripts.gotomeeting.com/#/s/5bf2db324b9ba92d0d9cb8b37a8f2bd3edba7a691fa4c9c5dee513517bda94c0)
+
+
