@@ -27,3 +27,5 @@
 [Day 5_Recorded_Video](https://transcripts.gotomeeting.com/#/s/f33acf674be2e7f082ee9089e1ce1bed384b922b6d0904d04824e57c0fa72d03)
 
 [Day 6_Recorded_Video](https://transcripts.gotomeeting.com/#/s/f3d4d95df9f3ff549033f1e0bc14f9c4be8e47242b4b746a2f769b2d8fb0755c)
+
+[Day 7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/fa59c7831a35f068adcffafacfcf04383809562b345c471e77a298554218f720)
