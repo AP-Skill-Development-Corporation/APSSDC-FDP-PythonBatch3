@@ -29,3 +29,12 @@
 [Day 6_Recorded_Video](https://transcripts.gotomeeting.com/#/s/f3d4d95df9f3ff549033f1e0bc14f9c4be8e47242b4b746a2f769b2d8fb0755c)
 
 [Day 7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/fa59c7831a35f068adcffafacfcf04383809562b345c471e77a298554218f720)
+
+[Day 8 Recorded Video](https://transcripts.gotomeeting.com/#/s/95920e5a2f31632c684f019e5793c52054bb0dd79d933ad1a65c4fe3b60de04c)
+
+[Day 9 Recorded Video](https://transcripts.gotomeeting.com/#/s/73b47fed9a3060a4928fbae5bd8bd9b2beb8825281a5ba3596baeb868ddfb586)
+
+[Day 10 Recorded Video](https://transcripts.gotomeeting.com/#/s/92371b38142b984306ffde967c1c99f875e7d9ccd2aa4c22f78efd5b60213c8f)
+
+
+
